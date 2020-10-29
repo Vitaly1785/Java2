@@ -22,6 +22,7 @@ public class Phonebook {
 
     public void getSubscriber(String name) {
         System.out.println(name + " " + maps.get(name));
+        
     }
 
 }

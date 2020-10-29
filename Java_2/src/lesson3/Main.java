@@ -24,5 +24,6 @@ public class Main {
         phone.addSubscriber("Ivanov", "8500077771" );
         phone.getSubscriber("Ivanov");
         phone.getSubscriber("Petrov");
+
     }
 }
